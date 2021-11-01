@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andent2
+- 👋 Hi, I’m Andrew
 - 👀 I’m interested in building productivity tools
 - 🌱 I’m currently learning Full-Stack Web Development
 
