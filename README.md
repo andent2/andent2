@@ -1,6 +1,4 @@
-## About
-
-I'm Andrew, a Web Developer and Musician from Maryland.
+I'm Andrew, a web developer and musician from Maryland.
 <br>
 <br>
 I build **accessible** and **high-performance** front-ends for CMS's like [Sanity](https://www.sanity.io) and [Shopify](https://www.shopify.com).
